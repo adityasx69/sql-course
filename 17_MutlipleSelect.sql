@@ -1,4 +1,4 @@
-SELECT *
+17_MutlipleSelect.sqlSELECT *
 FROM customers;
 
 SELECT *
