@@ -1,0 +1,4 @@
+SELECT *
+FROM customers
+ORDER BY score DESC
+LIMIT 3
